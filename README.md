@@ -7,4 +7,4 @@ TO DO:
 3) Add weights --> DONE for ant data
 4) Update readme project
 
-![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/image.jpg?raw=true)
+![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/pipeline.png?raw=true)
