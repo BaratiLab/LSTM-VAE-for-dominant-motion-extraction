@@ -13,7 +13,6 @@ In this study we have provided a framework to extract trajectory of agents from 
 
 ## LSTM VAE:
 The time ordered spatial state of the system is fed into the LSTM VAE to encode the state of the system into a latent representation for each time-step, as shown in the figure below.
-
 ![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/lstm_vae_g.gif?raw=true) 
 
 
