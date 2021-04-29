@@ -25,6 +25,7 @@ The extracted equation is then solved and decoded. Figure below shows the recont
 
 
 ## TO DO:
+WIP
 [x] Add LSTM VAE structure --> DONE
 [x] Add jupyter notebook for analysis --> DONE for ant data
 [x] Add weights --> DONE for ant data
