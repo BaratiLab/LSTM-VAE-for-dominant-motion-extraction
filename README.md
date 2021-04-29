@@ -15,14 +15,18 @@ In this study we have provided a framework to extract trajectory of agents from 
 The time ordered spatial state of the system is fed into the LSTM VAE to encode the state of the system into a latent representation for each time-step, as shown in the figure below.
 ![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/lstm_vae_g.gif?raw=true) 
 
-
+## Result:
+Extracted latent representation of states at each time step is then used to create the time dependent diffrential eqution using SINDy framework. Here, to convert the state to quation #pysindy# package is used.
+The extracted equation is then solved and decoded. Figure below shows the recontructed states and the ground truth states.
+![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj.gif?raw=true) 
 
 TO DO:
-1) Add LSTM VAE structure --> DONE
-2) Add jupyter notebook for analysis --> DONE for ant data
-3) Add weights --> DONE for ant data
-4) Update readme project
+[x] Add LSTM VAE structure --> DONE
+[x] Add jupyter notebook for analysis --> DONE for ant data
+[x] Add weights --> DONE for ant data
+[] Update readme project
+[] Update for other data set
 
-![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj.gif?raw=true) 
+
 
 
