@@ -23,13 +23,16 @@ The extracted equation is then solved and decoded. Figure below shows the recont
 ![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj.gif?raw=true) 
 
 
-
 ## TO DO:
-WIP
-[x] Add LSTM VAE structure --> DONE
-[x] Add jupyter notebook for analysis --> DONE for ant data
-[x] Add weights --> DONE for ant data
-[] Update readme project
+Currently work in progress. Let us know if the any issue with code
+[X] Add LSTM VAE structure --> DONE
+
+[X] Add jupyter notebook for analysis --> DONE for ant data
+
+[X] Add weights --> DONE for ant data
+
+[X] Update readme project
+
 [] Update for other data set
 
 
