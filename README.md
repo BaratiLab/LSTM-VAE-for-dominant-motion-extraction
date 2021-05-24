@@ -13,7 +13,7 @@ In this study we have provided a framework to extract trajectory of agents from 
 
 ## LSTM VAE:
 The time ordered spatial state of the system is fed into the LSTM VAE to encode the state of the system into a latent representation for each time-step, as shown in the figure below.
-![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/lstm_vae_g.gif?raw=true) 
+![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/gg2.gif?raw=true) 
 
 ## Result:
 Extracted latent representation of states at each time step is then used to create the time dependent diffrential eqution using SINDy framework. Here, to convert the state to quation #pysindy# package is used.
