@@ -20,7 +20,7 @@ Extracted latent representation of states at each time step is then used to crea
 The extracted equation is then solved and decoded. Figure below shows the recontructed states and the ground truth states.
 
 
-![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj.gif?raw=true) 
+![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj2.gif?raw=true) 
 
 
 ## TO DO:
