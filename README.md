@@ -16,10 +16,11 @@ The time ordered spatial state of the system is fed into the LSTM VAE to encode 
 ![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/gg2.gif?raw=true) 
 
 ## Result:
+
 Extracted latent representation of states at each time step is then used to create the time dependent diffrential eqution using SINDy framework. Here, to convert the state to quation #pysindy# package is used.
 The extracted equation is then solved and decoded. Figure below shows the recontructed states and the ground truth states.
 
-
+# Ant
 ![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj2.gif?raw=true) 
 
 
