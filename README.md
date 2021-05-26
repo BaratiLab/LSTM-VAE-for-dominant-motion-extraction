@@ -22,6 +22,8 @@ The extracted equation is then solved and decoded. Figure below shows the recont
 
 ### Ant
 ![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj2.gif?raw=true) 
+### Termite
+![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj_ter.gif?raw=true) 
 
 
 ## TO DO:
