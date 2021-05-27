@@ -24,6 +24,8 @@ The extracted equation is then solved and decoded. Figure below shows the recont
 ![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj2.gif?raw=true) 
 ### Termite
 ![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj_ter2.gif?raw=true) 
+### Zebrafish
+![alt text](https://github.com/BaratiLab/LSTM-VAE-for-dominant-motion-extraction/blob/main/img_util/traj_zebra.gif?raw=true) 
 
 
 ## TO DO:
